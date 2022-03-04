@@ -2,7 +2,6 @@
     Tại vị trí chẵn, các kí tự chữ cái được chuyển thành chữ hoa
     Tại vị trí lẻ, các kí tự chữ cái được chuyển hoá thành chữ thường
     Vị trí đầu tiên là 1
-    Các dấu cách giữ nguyên
  */
 
 #include <iostream>
